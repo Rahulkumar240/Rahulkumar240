@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web designing
-- 😄 Pronouns: He/his
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: Design cool animation Websites
 
 <!---
