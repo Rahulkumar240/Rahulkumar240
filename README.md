@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 B.Tech CSE Student | IKGPTU<br>🚀Aspiring Software Development Engineer | AI/ML Enthusiast <br>Leetcode 100+ Problems Solved | C++,JAVA | DSA<br>Actively Working on Projects <br>Open to Collaborations & Internships.
 
 
