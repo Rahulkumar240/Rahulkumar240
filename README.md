@@ -1,7 +1,7 @@
 # 💫 About Me:
 B.Tech CSE Student | IKGPTU<br>🚀Aspiring Software Development Engineer | AI/ML Enthusiast <br>Leetcode 100+ Problems Solved | C++,JAVA | DSA<br>Actively Working on Projects <br>Open to Collaborations & Internships.
 
-
+ 
 ## 🌐 Social Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahulkumar397/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulsharma9709397@gmail.com) 
 
