@@ -1,26 +1,67 @@
-<h1 align="center">Rahul Kumar</h1>
+## Rahul Kumar
 
-<p align="center">
-  <b>Aspiring Penetration Tester · Security-Focused Backend Engineer</b><br/>
-  B.Tech CSE @ IKGPTU · Linux · Python · C++ · Web App Security
-</p>
+DevSecOps engineer-in-training focused on building secure, automated infrastructure
+and integrating security into CI/CD pipelines.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahulkumar397">LinkedIn</a> ·
-  <a href="mailto:rahulsharma9709397@gmail.com">Email</a> ·
-  <a href="https://x.com/Rahul9260">Twitter/X</a>
-</p>
+B.Tech CSE @ IKGPTU · Graduating 2027 · Open to DevSecOps internships
 
 ---
 
-## Primary Focus
+### Core focus
 
-I'm building toward offensive security, with a primary focus on web application and infrastructure penetration testing.
+- CI/CD pipeline security — SAST, DAST, dependency scanning
+- Container security — Docker image hardening, Kubernetes RBAC, secrets management
+- Infrastructure as Code — AWS + Terraform
+- Secure backend systems — REST APIs, authentication flows, input validation
+- Security tooling in Python — automation, detectors, simulators
 
-My approach is to learn systems from the builder’s side first, then analyze them from the attacker’s side. I’ve worked on backends, authentication flows, APIs, cloud-native DevSecOps architecture, and security-focused projects, which helps me understand how vulnerabilities emerge in real applications and infrastructure. 
+---
 
-## Security Foundation
+### What I'm building
 
-- Cybersecurity internship with exposure to Kali Linux, Ubuntu, authentication analysis, attack-surface thinking, and vulnerability-assessment workflows.
-- Hands-on projects covering DevSecOps security controls, phishing infrastructure analysis, and brute-force behavior simulation.
-- Ongoing lab practice in OWASP Top 10-style web issues, reconnaissance methodology, and structured documentation of findings.
+**nexus-platform** — cloud-native DevSecOps platform
+Kubernetes · Docker · CI/CD · SAST/DAST · Secrets management · RBAC · AWS · Terraform · Prometheus/Grafana
+
+This is my primary learning project. I document design decisions and trade-offs in the README.
+
+---
+
+### Security-focused projects
+
+| Project | What it is |
+|---|---|
+| nexus-platform | Full DevSecOps platform with secure CI/CD, container security, IaC |
+| Phishing-URL-Detector | ML-based phishing detection built on attacker-side URL analysis |
+| Brute-Force-Simulator | Auth abuse simulation — rate limiting, lockout logic, credential stuffing patterns |
+| AuthForge | Authentication and authorization service — JWT, RBAC, session security |
+
+---
+
+### Background
+
+- Cybersecurity Intern @ Future Finders Ltd — Kali Linux, vulnerability analysis, attack-surface assessment
+- SDE Intern @ Bluestock Fintech — secure REST APIs, DevSecOps workflows
+- Python Dev @ Cognifyz Technologies — automation tools and data pipelines
+- ML Intern @ CodeAlpha — security-domain ML applications
+
+---
+
+### Stack
+
+**DevSecOps:** Kubernetes · Docker · CI/CD · SAST/DAST · Terraform · AWS · Secrets management  
+**Languages:** Python · C++ · JavaScript (Node.js)  
+**Security:** Kali Linux · Burp Suite · Nmap · Vulnerability analysis  
+**Backend:** Node.js · REST APIs · SQL · Express  
+**Monitoring:** Prometheus · Grafana  
+
+---
+
+### DSA
+
+370+ problems solved · LeetCode max rating 1607 · 6 contests
+
+---
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/rahulkumar297) · rahulsharma9709397@gmail.com
