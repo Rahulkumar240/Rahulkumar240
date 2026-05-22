@@ -1,67 +1,76 @@
-## Rahul Kumar
+# Rahul Kumar
 
-DevSecOps engineer-in-training focused on building secure, automated infrastructure
-and integrating security into CI/CD pipelines.
+Backend & Cloud Infrastructure Engineer focused on building scalable backend systems, cloud-native platforms, and secure deployment pipelines.
 
-B.Tech CSE @ IKGPTU · Graduating 2027 · Open to DevSecOps internships
-
----
-
-### Core focus
-
-- CI/CD pipeline security — SAST, DAST, dependency scanning
-- Container security — Docker image hardening, Kubernetes RBAC, secrets management
-- Infrastructure as Code — AWS + Terraform
-- Secure backend systems — REST APIs, authentication flows, input validation
-- Security tooling in Python — automation, detectors, simulators
+B.Tech CSE @ IKGPTU · Graduating 2027
 
 ---
 
-### What I'm building
+## Core Focus
 
-**nexus-platform** — cloud-native DevSecOps platform
-Kubernetes · Docker · CI/CD · SAST/DAST · Secrets management · RBAC · AWS · Terraform · Prometheus/Grafana
-
-This is my primary learning project. I document design decisions and trade-offs in the README.
-
----
-
-### Security-focused projects
-
-| Project | What it is |
-|---|---|
-| nexus-platform | Full DevSecOps platform with secure CI/CD, container security, IaC |
-| Phishing-URL-Detector | ML-based phishing detection built on attacker-side URL analysis |
-| Brute-Force-Simulator | Auth abuse simulation — rate limiting, lockout logic, credential stuffing patterns |
-| AuthForge | Authentication and authorization service — JWT, RBAC, session security |
+- Backend Engineering — REST APIs, authentication systems, scalable services
+- Cloud Infrastructure — AWS, Docker, Kubernetes, Terraform
+- Platform Engineering — CI/CD pipelines, observability, deployment automation
+- DevSecOps — container security, SAST/DAST, secrets management
+- System Design & DSA
 
 ---
 
-### Background
+## Featured Project
 
-- Cybersecurity Intern @ Future Finders Ltd — Kali Linux, vulnerability analysis, attack-surface assessment
-- SDE Intern @ Bluestock Fintech — secure REST APIs, DevSecOps workflows
-- Python Dev @ Cognifyz Technologies — automation tools and data pipelines
-- ML Intern @ CodeAlpha — security-domain ML applications
+### nexus-platform
+Cloud-native backend & platform engineering project featuring:
 
----
+- Kubernetes orchestration
+- Dockerized microservices
+- CI/CD pipelines
+- Infrastructure as Code with Terraform
+- Secure authentication & RBAC
+- Monitoring with Prometheus & Grafana
+- AWS deployment workflows
 
-### Stack
-
-**DevSecOps:** Kubernetes · Docker · CI/CD · SAST/DAST · Terraform · AWS · Secrets management  
-**Languages:** Python · C++ · JavaScript (Node.js)  
-**Security:** Kali Linux · Burp Suite · Nmap · Vulnerability analysis  
-**Backend:** Node.js · REST APIs · SQL · Express  
-**Monitoring:** Prometheus · Grafana  
+This repository documents architecture decisions, deployment workflows, and infrastructure design trade-offs.
 
 ---
 
-### DSA
+## Technical Stack
 
-370+ problems solved · LeetCode max rating 1607 · 6 contests
+### Backend
+Node.js · Express · REST APIs · SQL · Authentication · RBAC
+
+### Cloud & Infrastructure
+AWS · Docker · Kubernetes · Terraform · CI/CD
+
+### DevSecOps
+Container hardening · SAST/DAST · Secrets management
+
+### Languages
+Python · JavaScript · C++
+
+### Monitoring & Tooling
+Prometheus · Grafana · Linux · GitHub Actions
 
 ---
 
-### Contact
+## Experience
 
-[LinkedIn](https://linkedin.com/in/rahulkumar297) · rahulsharma9709397@gmail.com
+- SDE Intern @ Bluestock Fintech
+- Cybersecurity Intern @ Future Finders Ltd
+- Python Developer Intern @ Cognifyz Technologies
+- ML Intern @ CodeAlpha
+
+---
+
+## DSA
+
+- 370+ problems solved
+- LeetCode Rating: 1475+
+- Strong in arrays, strings, sliding window, binary search, recursion
+
+---
+
+## Current Goals
+
+- Building production-grade backend systems
+- Deepening Kubernetes & cloud infrastructure knowledge
+- Improving system design and distributed systems understanding
